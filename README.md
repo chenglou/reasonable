@@ -1,3 +1,3 @@
 # reason package
 
-Dummy package. Were you thinking of install [this](https://atom.io/packages/atom-reason-loader)?
+Dummy package. Please install [this](https://atom.io/packages/ide-reason) instead.
